@@ -7,7 +7,6 @@ You can see the WebApp at work here: [WebApp Link](https://ankitpassi.000webhost
 * [Project Usage](#3---project-usage)
 * [Running The Project](#4---running-the-project)
 * [Project Issues](#5---project-issues)
-* [Additional Resources](#6---additional-resources)
 
 ## 1.   Introduction
 
