@@ -43,3 +43,4 @@ also, change the SQL Queries in PHP according to your data requirements.
 ## 5.   Project Issues
 
 1. Application is still in experimental stage. Thus Major UI and Code changes is expected.
+2. Data is being ported to CodeIgniter so, expect some new changes in the code itself.
