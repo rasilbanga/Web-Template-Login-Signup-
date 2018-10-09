@@ -14,7 +14,8 @@ This is a basic Login and Signup Web Template which I created as a part of my We
 
 Right now It includes functionality of Logging in and Signup with basic data validation.
 
-Design is simplistic and clean and Repsonsive. 
+Design is simplistic and clean and Repsonsive and Created by Ankit Passi
+https://github.com/ankitpassi141/
 
 
 ## 2.   Assets
